@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">concreteDesafioAndroid</string>
+    <string name="network_failure">Network Failure</string>
+    <string name="conversion_error">Conversion Error</string>
 </resources>
